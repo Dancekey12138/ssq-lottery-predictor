@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1773330919056
+    },
+    "openclaw-tavily-search": {
+      "version": "0.1.0",
+      "installedAt": 1773330978991
+    },
+    "self-improving-agent": {
+      "version": "3.0.1",
+      "installedAt": 1773331108782
+    },
+    "skill-creator": {
+      "version": "0.1.0",
+      "installedAt": 1773331133691
+    },
+    "browserwing": {
+      "version": "1.0.0",
+      "installedAt": 1773331365777
+    }
+  }
+}
